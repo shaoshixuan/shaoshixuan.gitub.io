@@ -153,9 +153,9 @@
           <nav id="one-page-menu" class="vertical-menu my-5">
             <ul class="menu-list list-unstyled">
               <li><a href="#home" class="nav-link">Home</a></li>
-              <li><a href="#about" class="nav-link">About</a></li>
-              <li><a href="#experience" class="nav-link">Experience</a></li>
-              <li><a href="#portfolio" class="nav-link">Works</a></li>
+              <li><a href="#about" class="nav-link">Music</a></li>
+              <li><a href="#experience" class="nav-link">Basketball</a></li>
+              <li><a href="#portfolio" class="nav-link">Photographer</a></li>
               <!-- <li><a href="#contact" class="nav-link active">Contact</a></li> -->
 
                   </ul>
@@ -250,8 +250,8 @@
               <div class="col-lg-3">
                 <div class="icon-box aos-init aos-animate" data-aos="fade-up">
                   <span>01</span>
-                  <h3 class="sub-heading">web design</h3>
-                  <p>Do web design often</p>
+                  <h3 class="sub-heading">R&B Songs</h3>
+                  <p>My Love Songs.</p>
                 </div>
               </div>
               <div class="col-lg-3">
@@ -278,11 +278,18 @@
             <div class="row d-flex flex-wrap aos-init aos-animate" data-aos="fade-up">
               <div class="col-lg-6 pb-5">
                 <!-- <span class="text-muted text-uppercase">BIODATA</span> -->
-                <h2 class="display-4 txt-fx slide-up"><span class="word"><span class="letter" style="transition-delay:100ms;">E</span><span class="letter" style="transition-delay:110ms;">d</span><span class="letter" style="transition-delay:120ms;">u</span><span class="letter" style="transition-delay:130ms;">c</span><span class="letter" style="transition-delay:140ms;">a</span><span class="letter" style="transition-delay:150ms;">t</span><span class="letter" style="transition-delay:160ms;">i</span><span class="letter" style="transition-delay:170ms;">o</span><span class="letter" style="transition-delay:180ms;">n</span></span></h2>
-                <div class="data-info py-3 aos-init aos-animate" data-aos="fade-up">
-                  <span class="meta-date">2022-</span>
-                  <h3 class="info-title">Studying for a degree in literature and engineering</h3>
-                  <p>Communicate University Of China</p>
+                
+                   <div id="md">
+                      <span>点击图片播放</span>
+                      </div>
+                      <div id="mc">
+                          <audio id="music" src="../html_work/music/harrisonwheeler - Vacation.mp3 音乐路径" ></audio>
+                          <img src="../html_work/images-1/imgg-1.gif 图片路径" width="80px" height="80px" title="点击播放音乐" onClick="play()">
+                      </div>
+                      <script src="../html_work/js/music.js  音乐js路径"></script>
+                  
+
+
                 </div>
 
               </div>
@@ -487,7 +494,23 @@
   <script src="js/plugins.js"></script>
   <script src="js/script.js"></script>
   <script src="path/to/aos.js"></script>
+  <script>
+    window.onload = function() {
+    var audio = document.getElementById('music');
+    audio.pause(); //打开页面时不播放音乐，
+}
 
+function play() {
+    var audio = document.getElementById('music');
+    if (audio.paused) {
+        audio.play();
+    } else {
+        audio.pause();
+        audio.currentTime = 0; //音乐从头播放
+    }
+}
+
+</script>
 </script>
 
 </body>
