@@ -1,0 +1,152 @@
+<div class="sp_rows_wrap">
+					<div class="scl_img">
+						<div class="container">
+							<div class="up ttl" style="opacity: 1; visibility: inherit; transform: translate(0px, 0px);">
+								<div class="h3 h3_vs">Expanding the boundaries <span class="br">of personal space</span></div>
+								<div class="h3 h3_mb">Expanding the boundaries <span class="br">of personal space</span></div>
+							</div>
+							<div class="rows">
+								<div class="scl_t_h ln_h"><span style="transform: translate(0px, 0px);"></span></div>
+								<div class="cols cols01">
+									<div class="desc">
+										<div class="ln_v"><span style="transform: translate(0px, 0px);"></span></div>
+										<div class="txt txt_vs">
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">We have made the necessary changes to the </div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">ventilation and air conditioning system, retaining all the</div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">original parameters of air exchange</div></div>
+										</div>
+										<div class="txt txt_mb">
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">We have made the necessary changes to the </div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">ventilation and air conditioning system, retaining </div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">all the original parameters of air exchange</div></div>
+										</div>
+									</div>
+								</div>
+								<div class="cols cols02">
+									<div class="desc">
+										<div class="txt txt_vs">
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">We have provided thorough quality control at every </div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">stage of the project, because for us it is a priority in</div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">working with each client</div></div>
+										</div>
+										<div class="txt txt_mb">
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">We have provided thorough quality control at every </div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">stage of the project, because for us it is a priority in</div></div>
+											<div class="word" style="perspective: 400px;"><div style="display: block; text-align: center; position: relative; opacity: 1; visibility: inherit; transform: translate(0px, 0px);">working with each client</div></div>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+
+					<div class="sp_rows_ovr">
+						<div class="pin-spacer" style="order: 0;place-self: auto;grid-area: auto;z-index: auto;float: none;flex-shrink: 1;display: block;margin: 0px;inset: 0px;position: relative;flex-basis: auto;overflow: visible;box-sizing: border-box;width: 867px;height: 1396px;padding: 0px 0px 905px;"><div class="sp_rows" style="transform: translate(0px, 116px);inset: 0px auto auto 0px;margin: 0px;max-width: 867.253px;width: 867.253px;max-height: 490.543px;height: 490.543px;padding: 0px;">
+							<div class="sp_bg_mask sp_bg_mask01" style="transform: translate3d(0px, 0px, 0px) scale(1.5127, 1.51271);">
+								<div class="sp_bg sp_bg01">
+									<picture class="images images01">
+										<img src="img/sc1.jpg" width="385" height="398" alt="">
+									</picture>
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask02" style="transform: translate3d(0px, 0px, 0px) scale(1.3204, 1.32044);">
+								<div class="sp_bg sp_bg02">
+									<picture class="images images02">
+										<img src="img/sc2.jpg" width="367" height="271" alt="">
+									</picture> 
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask03" style="transform: translate3d(0px, 0px, 0px) scale(1.3589, 1.35889);">
+								<div class="sp_bg sp_bg03">
+									<picture class="images images03">
+										<img src="img/sc3.jpg" width="651" height="292" alt="">
+									</picture>
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask04" style="transform: translate3d(0px, 0px, 0px) scale(1.3845, 1.38453);">
+								<div class="sp_bg sp_bg04"> 
+									<picture class="images images04">
+										<!-- <img src="img/sc4nn.jpg" width="572" height="323" alt=""> -->
+										<img src="img/sc4nn.jpg" width="2500" height="1668" alt="">
+										
+									</picture>
+								</div>
+							</div>	
+							<div class="sp_bg_mask sp_bg_mask05" style="transform: translate3d(0px, 0px, 0px) scale(1.423, 1.42298);">
+								<div class="sp_bg sp_bg05">
+									<picture class="images images05">
+										<img src="img/sc5.jpg" width="355" height="336" alt="">
+									</picture> 
+								</div>	
+							</div>
+							<div class="sp_bg_mask sp_bg_mask06" style="transform: translate3d(0px, 0px, 0px) scale(1.3845, 1.38453);">
+								<div class="sp_bg sp_bg06">
+									<picture class="images images06">
+										<img src="img/sc6.jpg" width="355" height="266" alt="">
+									</picture> 
+								</div>	
+							</div>	
+							<div class="sp_bg_mask sp_bg_mask07" style="transform: translate3d(0px, 0px, 0px) scale(1.4486, 1.44862);">
+								<div class="sp_bg sp_bg07">
+									<picture class="images images07">
+										<img src="img/sc7.jpg" width="530" height="486" alt="">
+									</picture> 
+								</div>	
+							</div>					
+						</div></div>
+					</div>
+				<div class="sp_rows_ovr">
+						<div class="pin-spacer" style="order: 0;place-self: auto;grid-area: auto;z-index: auto;float: none;flex-shrink: 1;display: block;margin: 0px;inset: 0px;position: relative;flex-basis: auto;overflow: visible;box-sizing: border-box;width: 867px;height: 1396px;padding: 0px 0px 905px;"><div class="sp_rows" style="transform: translate(0px, 116px);inset: 0px auto auto 0px;margin: 0px;max-width: 867.253px;width: 867.253px;max-height: 490.543px;height: 490.543px;padding: 0px;">
+							<div class="sp_bg_mask sp_bg_mask01" style="transform: translate3d(0px, 0px, 0px) scale(1.5127, 1.51271);">
+								<div class="sp_bg sp_bg01">
+									<picture class="images images01">
+										<img src="img/sc1.jpg" width="385" height="398" alt="">
+									</picture>
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask02" style="transform: translate3d(0px, 0px, 0px) scale(1.3204, 1.32044);">
+								<div class="sp_bg sp_bg02">
+									<picture class="images images02">
+										<img src="img/sc2.jpg" width="367" height="271" alt="">
+									</picture> 
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask03" style="transform: translate3d(0px, 0px, 0px) scale(1.3589, 1.35889);">
+								<div class="sp_bg sp_bg03">
+									<picture class="images images03">
+										<img src="img/sc3.jpg" width="651" height="292" alt="">
+									</picture>
+								</div>
+							</div>
+							<div class="sp_bg_mask sp_bg_mask04" style="transform: translate3d(0px, 0px, 0px) scale(1.3845, 1.38453);">
+								<div class="sp_bg sp_bg04"> 
+									<picture class="images images04">
+										<!-- <img src="img/sc4nn.jpg" width="572" height="323" alt=""> -->
+										<img src="img/sc4nn.jpg" width="2500" height="1668" alt="">
+										
+									</picture>
+								</div>
+							</div>	
+							<div class="sp_bg_mask sp_bg_mask05" style="transform: translate3d(0px, 0px, 0px) scale(1.423, 1.42298);">
+								<div class="sp_bg sp_bg05">
+									<picture class="images images05">
+										<img src="img/sc5.jpg" width="355" height="336" alt="">
+									</picture> 
+								</div>	
+							</div>
+							<div class="sp_bg_mask sp_bg_mask06" style="transform: translate3d(0px, 0px, 0px) scale(1.3845, 1.38453);">
+								<div class="sp_bg sp_bg06">
+									<picture class="images images06">
+										<img src="img/sc6.jpg" width="355" height="266" alt="">
+									</picture> 
+								</div>	
+							</div>	
+							<div class="sp_bg_mask sp_bg_mask07" style="transform: translate3d(0px, 0px, 0px) scale(1.4486, 1.44862);">
+								<div class="sp_bg sp_bg07">
+									<picture class="images images07">
+										<img src="img/sc7.jpg" width="530" height="486" alt="">
+									</picture> 
+								</div>	
+							</div>					
+						</div></div>
+					</div></div>
